@@ -9,4 +9,4 @@ This it the Github repo for my Engineering Data Analysis course.
 
 | Week | Topic | Lecture Notes | Jupyter Notebook |
 |------|-------|---------------|------------------|
-| 1 | Python Basics for ECE | [PDF]() | [Notebook](week1/Week1_Python_Basics_for_ECE.ipynb) |
+| 1 | Python Basics for ECE | [PDF]() | [Notebook](week1/Week_1_Python_Basics_for_ECE.ipynb) |
