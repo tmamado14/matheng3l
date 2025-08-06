@@ -7,7 +7,7 @@ This is the Github repo for my Engineering Data Analysis laboratory course.
 
 ### Weekly Materials
 
-| Week | Topic | Lecture Notes | Jupyter Notebook | Programming Assignment |
-|------|-------|---------------|------------------|------------------|
-| 1 | Python Basics for ECE | [PDF]() | [Notebook](week1/Week_1_Python_Basics_for_ECE.ipynb) | [PA1](week1/pa1.ipynb)|
-| 2 | Advanced Data Structures & NumPy |  |  | |
+| Week | Topic | Lecture Notes | Jupyter Notebook | 
+|------|-------|---------------|------------------|
+| 1 | Python Basics for ECE | [PDF]() | [Notebook](week1/Week_1_Python_Basics_for_ECE.ipynb) |
+| 2 | Advanced Data Structures & NumPy |  |  |
