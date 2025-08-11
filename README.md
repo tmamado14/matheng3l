@@ -9,7 +9,7 @@ This is the Github repo for my Engineering Data Analysis laboratory course.
 
 | Week | Topic | Lecture Notes | Jupyter Notebook | 
 |------|-------|---------------|------------------|
-| 1 | Python Basics for ECE | [PDF]() | [Notebook](Week1_Probability_Distribution.ipynb) |
+| 1 | Python Basics for ECE | [PDF]() | [Notebook](week1/Week1_Probability_Distribution.ipynb) |
 | 2 | Advanced Data Structures & NumPy |  |  |
 | 3 | Functions, Modules & Documentation |  |  |
 | 4 | Pandas for Data Management |  |  |
